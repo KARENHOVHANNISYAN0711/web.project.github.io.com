@@ -1,0 +1,420 @@
+@media only screen and (max-width:1405px){
+    .sectioneoneparagraf{
+        font-size:2.80rem;
+    }
+}
+
+@media only screen and (max-width:1330px){
+    .sectioneoneparagraf{
+        font-size:2.60rem;
+    }
+}
+
+@media only screen and (max-width:1232px){
+    .sectioneoneparagraf{
+        font-size:2.50rem;
+    }
+}
+
+@media only screen and (max-width:1236px){
+    .SectioneFoure-h2-TextOne{
+        font-size:2.70em;
+    }
+}
+
+@media only screen and (max-width:1126px){
+    .SectioneFoure-h2-TextOne{
+        font-size:2.40em;
+    }
+}
+
+@media only screen and (max-width:985px){
+    .sectioneoneparagraf{
+        font-size:2.30rem;
+        margin-top:40px;
+    }
+    .paragrafsectionefoure{
+        font-size:1rem;
+    }
+}
+
+@media only screen and (max-width:1021px){
+    .SectioneFoure-h2-TextOne{
+        font-size:2em;
+        margin-top:20px;
+    }
+}
+
+@media only screen and (max-width:958px){
+    .sectioneoneparagraf>p{
+        font-size:44rem;
+        color:red;
+        padding-bottom:40px;
+    }
+
+}
+
+@media only screen and (max-width:961px){
+    .SectioneOneTextPar{
+        width:40%;
+    }
+}
+
+@media only screen and (max-width:913px){
+    .SectioneOneTextPar{
+        width:45%;
+    }
+}
+
+@media only screen and (max-width:812px){
+    .SectioneTwoContact{
+        font-size:1.20rem;
+    }
+    .SectioneTwoTextPar{
+        font-size:1.600rem;
+    }
+}
+
+
+@media only screen and (max-width:811px){
+    .SectioneOneTextPar{
+        width:47%;
+    }
+}
+
+@media only screen and (max-width:777px){
+    .SectioneOneTextPar{
+        width:50%;
+    }
+}
+
+@media only screen and (max-width:681px){
+    .SectioneTwoContact{
+        font-size:1.80rem;
+        margin-top:50px;
+    }
+}
+
+@media only screen and (max-width:618px){
+    .SectioneTwoContact{
+        font-size:1.60rem;
+        margin-top:80px;
+    }
+}
+
+@media only screen and (max-width:608px){
+    .sectioneoneparagraf{
+        font-size:2.40rem !important;
+    }
+}
+
+@media only screen and (max-width:484px){
+    .sectioneoneparagraf{
+        font-size:2rem !important;
+    }
+}
+
+
+@media only screen and (max-width:1176px){
+    .sectioneoneparagraf{
+        font-size:2.40rem;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .SectioneOne{
+        width:100%;
+    }
+    .SectioneOneTextPar{
+        width:75%;
+        left:50px;
+        margin-top:60px;
+    }
+    .sectioneoneparagraf{
+        font-size:3rem;
+    }
+    .SectioneThree-h3text{
+        font-size:13px;
+    }
+    .SectioneThree{
+        min-height:850px;
+    }
+    .SectioneThreeWallpaperPar{
+        height:200px !important;
+    }
+    .SectioneThreeTextPar{
+        padding:20px;
+    }
+    .paragrafsectionetextfoure{
+        font-size:1.40rem;
+    }
+    .SectioneFoureTextWallpaperPar{
+        flex-direction:column;
+    }
+    .SectioneFoureWallpaperOnePar{
+        width:100%;
+    }
+    .SectioneFoureWallpaperTwoPar{
+        width:100%;
+    }
+    .SectioneSixWallpaperMen{
+        width:35%;
+        height:490px;
+    }
+    .sectionesix-h2text{
+        font-size:2.5rem;
+    }
+    .sectionesixpragraf{
+        font-size:1rem !important;
+    }
+    .SectioneFive-h2textTwo{
+        font-size:2rem;
+    }
+    .SectioneSixWallpaperMen{
+        height:420px;
+    }
+    .Footer-h5text{
+        font-size:1.50rem;
+    }
+    .Footer-h2text{
+        font-size:2rem;
+    }
+    .Footer-h2texttwo{
+        font-size:40px;
+    }
+    .FooterIcon{
+        width:90%;
+        justify-content:space-between;
+    }
+    .FooterContactPar{
+    justify-content: flex-end;
+    }
+    .FooterContact-h4text{
+        font-size:1.90rem;
+    }
+    .Email{
+        font-size:1.30rem;
+    }
+    .Facebook{
+        height:20px;
+    }
+    .Twiter{
+        height:20px;
+    }
+    .Instagram{
+        height:20px;
+    }
+    .Youtube{
+        height:20px;
+    }
+}
+
+@media only screen and (max-width:575px){
+    .sectioneoneparagraf{
+        font-size:2.25rem;
+    }
+    .SectioneTwoTextPar{
+        font-size:1.400rem;
+    }
+    .SectioneTwoContact{
+        width:50%;
+    }
+    .SectioneTwoWallpaperPar {
+        width:340px;
+        height:247px;
+    }
+    .SectioneThreeWallpaperTextPar{
+        top:-400px;
+    }
+    .SectioneThreeTextPar{
+        align-items:center;
+        width:100%;
+        flex-direction:column;
+    }
+    .SectioneThreeTextDivOne{
+        width:100%;
+        margin-bottom:40px;
+    }
+    .SecttioneThree-h3text{
+        font-size:1rem !important;
+        text-align:center;
+    }
+    .paragrafsectionefoure{
+        width:300px;
+        text-align:center;
+        font-size:1rem;
+        line-height:1.6;
+        position:relative;
+        right:55px;
+    }
+    .SectioneFoure-h2-TextOne{
+        font-size:2.70rem;
+        text-align:center;
+    }
+    .SectioneFoureTextPar{
+        flex-direction:column;
+    }
+    .SectioneFoureTextOne{
+        width:300px;
+    }
+    .SectioneFiveWallpaperPar{
+        display:flex;
+        flex-direction:column;
+        padding-left:400px;
+        justify-content:space-evenly;
+    }
+    .SectioneFiveTextPar{
+        width:400px !important;
+    }
+    .SectioneFive-h1text{
+        font-size:4rem;
+        padding-right:115px;
+    }
+    .SectioneFive-h2textTwo{
+        font-size:16px;
+        margin-right:60px;
+    }
+    .sectionefiveparagraf{
+        text-align:center;
+        font-size:1.30rem;
+        line-height:1.6;
+        padding-left:60px;
+    }
+    .SectioneFiveImg{
+        width:370px;
+    }
+    .SectioneFiveWallpaperParTwo{
+        position:relative;
+        right:390px;
+        width:400px;
+        min-height:350px;
+    }
+    .SectioneSixWallpaperTextPar{
+        flex-direction:column;
+    }
+    .sectionesix-h2text{
+        font-size:2.60rem;
+        text-align:center;
+    }
+    .SectioneSixWallpaperMen{
+         width:350px;
+    }
+    .FooterTextContactPar{
+        flex-direction:column;
+    }
+    .FooterContactPar{
+        width: 100%;
+        justify-content:space-between;
+        }
+    .FooterIcon{
+        display:flex;
+        justify-content:space-between;
+        width:200px;
+    }
+    .FooterContact-h4text{
+        text-align:center;
+        font-size:1.40rem;
+    }
+    .FooterContactParagraf{
+        font-size:0.890rem;
+    }
+    .Footer-h2textwo{
+        font-size:1rem;
+    }
+    .Footer-h2textthree{
+        font-size:1rem;
+    }
+    .Footer-h5text{
+        font-size:1rem;
+        text-align:center;
+    }
+    .Footer-h2text{
+        font-size:1.70rem;
+        display:flex;
+    }
+    .Footer-h2texttwo{
+        font-size:2rem;
+        text-align:center;
+    }
+    .Footer-h2textthree{
+        font-size:1.50rem;
+        text-align:center;
+    }
+}
+
+@media only screen and (max-width:525px){
+    .SectioneTwoContact{
+        font-size:1.30rem;
+    }
+    .SectioneThreeWallpaperPar{
+        background-size:100% 100%;
+    }
+    .SectioneFoure-h4text{
+        font-size:1.80rem;
+    }
+    .SectioneSix{
+        padding-top:20px;
+    }
+    .SectioneSixWallpaperMen{
+        width:380px;
+    }
+    .Footer-h2text{
+        padding-top:30px;
+        font-size:1.50rem;
+        padding-left:5px;
+    }
+}
+
+@media only screen and (max-width:439px){
+    .SectioneFoure-h2-TextOne{
+        padding-top:10px;
+    }
+}
+
+@media only screen and (max-width:430px){
+    .SectioneTwoContact{
+        font-size:1rem;
+        padding-top:20px;
+    }
+    .sectionetwoparagrafone{
+        font-size:1rem;
+    }
+}
+
+@media only screen and (max-width:425px){
+    .SectioneTwoTextPar{
+        font-size:1.300rem;
+    }
+    .sectionetwoparagrafone{
+        font-size:1rem;
+    }
+    .SectioneFoure-h2-TextOne{
+        font-size:2.40rem;
+    }
+    .Footer-h2text{
+        font-size:1.20rem;
+    }
+    .Footer-h2texttwo{
+        font-size:25px;
+    }
+    .Footer-h2texthree{
+        text-align:center !important;
+       font-size:0.40rem;
+    }
+    .paragrafsectionefoure{
+        right:80px;
+    }
+    .SectioneThreeTextDivOne p{
+        padding-top:30px;
+    }
+}
+
+@media only screen and (max-width:430px){
+    .SectioneTwoContact{
+        font-size:1rem;
+        padding-top:20px;
+    }
+    .sectionetwoparagrafone{
+        font-size:1rem;
+    }
+}
